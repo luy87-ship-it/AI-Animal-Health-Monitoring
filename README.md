@@ -106,7 +106,7 @@ This program uses one local animal-recognition model. The website runs the healt
 
 5. Check `UPLOAD_SERVER_URL`, or set the `PET_SERVER_URL` environment variable to your server's HTTPS origin. The server must support the healthy-confidence upload API expected by `pi_upload.py`.
 
-6. Open the main program in Thonny and run it, or launch it from its directory: `python3 final 2.0`
+6. Open the main program in Thonny and run it, or launch it from its directory: `python3 animal_health_monitor.py`
 
 7. Focus the Tkinter preview and press **E**, click **STOP**, or close the window to stop the program.
 
