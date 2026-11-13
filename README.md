@@ -85,7 +85,7 @@ This program uses one local animal-recognition model. The website runs the healt
 
 ## Files
 
-1. **`final2.0`:** integrated monitoring program with dynamic LCD status.
+1. **`animal_health_monitor.py`:** Integrated monitoring program with dynamic LCD status.
 
 2. **`pi_upload.py`:** HTTPS upload client and response validation.
 
