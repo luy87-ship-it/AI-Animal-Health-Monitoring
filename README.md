@@ -38,7 +38,6 @@ This program uses one local animal-recognition model. The website runs the healt
 
 7. **3D-printed structure:** supports and positions the components.
 
-8. Default connections use BCM GPIO numbering: ultrasonic trigger GPIO 23, echo GPIO 24, and LED red/green/blue GPIO 17/27/22. The LDR uses MCP3008 channel 1; the LCD uses I2C address `0x27` on bus 1. Check these settings against the assembled prototype.
 
 ## Workflow
 
